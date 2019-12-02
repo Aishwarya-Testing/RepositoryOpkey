@@ -23,5 +23,13 @@
       <IsDeleted>false</IsDeleted>
       <ListValues />
     </GlobalVariable>
+	<GlobalVariable>
+      <Name>gv2</Name>
+      <Value xsi:type="xsd:string">hello</Value>
+      <DataType_ENUM>String</DataType_ENUM>
+      <ExternallyUpdatable>true</ExternallyUpdatable>
+      <IsDeleted>false</IsDeleted>
+      <ListValues />
+    </GlobalVariable>
    </GlobalVarables>
 </GlobalVariableSchema>
