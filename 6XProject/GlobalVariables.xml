@@ -1,8 +1,9 @@
+<?xml version="1.0"?>
 <GlobalVariableSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <GlobalVarables>
     <GlobalVariable>
       <Name>Default Browser</Name>
-      <Value xsi:type="xsd:string">123</Value>
+      <Value xsi:type="xsd:string">chrome</Value>
       <DataType_ENUM>String</DataType_ENUM>
       <ExternallyUpdatable>true</ExternallyUpdatable>
       <IsDeleted>false</IsDeleted>
@@ -23,13 +24,5 @@
       <IsDeleted>false</IsDeleted>
       <ListValues />
     </GlobalVariable>
-	<GlobalVariable>
-      <Name>gv2</Name>
-      <Value xsi:type="xsd:string">hello</Value>
-      <DataType_ENUM>String</DataType_ENUM>
-      <ExternallyUpdatable>true</ExternallyUpdatable>
-      <IsDeleted>false</IsDeleted>
-      <ListValues />
-    </GlobalVariable>
-   </GlobalVarables>
-</GlobalVariableSchema>
+
+  </GlobalVariableSchema>
