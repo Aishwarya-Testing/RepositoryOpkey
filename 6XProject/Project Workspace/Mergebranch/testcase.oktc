@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<FlowSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportedArtifacts>
+    <ImportSectionDTO>
+      <Name>DD3EB2891B3D5478A0B4C88CB1F616F7</Name>
+      <Value>Project Workspace\Mergebranch\Homepage.okfl</Value>
+    </ImportSectionDTO>
+    <ImportSectionDTO>
+      <Name>E648AAD5382F1DD89C40F0DDED20F728</Name>
+      <Value>Project Workspace\Mergebranch\Username.okfl</Value>
+    </ImportSectionDTO>
+    <ImportSectionDTO>
+      <Name>5345460F57EFF2FAC2FA184DCB9F83DA</Name>
+      <Value>Project Workspace\Mergebranch\Password.okfl</Value>
+    </ImportSectionDTO>
+    <ImportSectionDTO>
+      <Name>0F8C20059E80B21FE30AC52D6BBCEF7F</Name>
+      <Value>Project Workspace\Mergebranch\Login.okfl</Value>
+    </ImportSectionDTO>
+  </ImportedArtifacts>
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <FlowSteps>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Component_RelativePath>DD3EB2891B3D5478A0B4C88CB1F616F7</Component_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>input-parameter-1</Name>
+          <DataSource>Default</DataSource>
+        </FlowStepInputArgument>
+        <FlowStepInputArgument>
+          <Name>input-parameter-2</Name>
+          <DataSource>Default</DataSource>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs />
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Component_RelativePath>E648AAD5382F1DD89C40F0DDED20F728</Component_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>input-parameter-1</Name>
+          <DataSource>ValueFromGlobalVariable</DataSource>
+          <GV_RelativePath>GlobalVariables\gv1</GV_RelativePath>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs />
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Component_RelativePath>5345460F57EFF2FAC2FA184DCB9F83DA</Component_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>input-parameter-1</Name>
+          <DataSource>Default</DataSource>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs />
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Component_RelativePath>0F8C20059E80B21FE30AC52D6BBCEF7F</Component_RelativePath>
+      <StepInputArgs />
+      <StepOutputArgs />
+    </FlowStep>
+  </FlowSteps>
+</FlowSchema>
