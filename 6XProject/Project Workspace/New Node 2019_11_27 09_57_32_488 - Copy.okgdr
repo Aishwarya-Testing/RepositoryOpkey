@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<GlobalDataRepositorySchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <MetaInformation>
-    <IsShared>true</IsShared>
-    <IsAutoCreated>false</IsAutoCreated>
-  </MetaInformation>
-  <ExcelFile_RelativePath>Global Data Repositories\New Node 2019_11_27 09_57_32_488.xlsx</ExcelFile_RelativePath>
-  <DataRepositoryColumns />
-</GlobalDataRepositorySchema>
