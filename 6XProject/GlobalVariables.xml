@@ -34,7 +34,7 @@
     </GlobalVariable>
     <GlobalVariable>
       <Name>GV2</Name>
-      <Value xsi:type="xsd:string">chrome</Value>
+      <Value xsi:type="xsd:string">chrome headless</Value>
       <DataType_ENUM>String</DataType_ENUM>
       <ExternallyUpdatable>true</ExternallyUpdatable>
       <IsDeleted>false</IsDeleted>
