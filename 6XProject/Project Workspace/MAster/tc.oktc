@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<FlowSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportedArtifacts>
+    <ImportSectionDTO>
+      <Name>851AFCAC7829B95F7908E01903629EED</Name>
+      <Value>Project Workspace\MAster\fl.okfl</Value>
+    </ImportSectionDTO>
+  </ImportedArtifacts>
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <FlowSteps>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Component_RelativePath>851AFCAC7829B95F7908E01903629EED</Component_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>input-parameter-1</Name>
+          <DataSource>Default</DataSource>
+        </FlowStepInputArgument>
+        <FlowStepInputArgument>
+          <Name>input-parameter-2</Name>
+          <DataSource>Default</DataSource>
+        </FlowStepInputArgument>
+        <FlowStepInputArgument>
+          <Name>input-parameter-3</Name>
+          <DataSource>Default</DataSource>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs />
+    </FlowStep>
+  </FlowSteps>
+</FlowSchema>
