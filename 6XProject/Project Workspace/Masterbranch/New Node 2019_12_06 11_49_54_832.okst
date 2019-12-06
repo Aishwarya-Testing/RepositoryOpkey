@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<SuiteSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportedArtifacts>
+    <ImportSectionDTO>
+      <Name>B4F92F37BF693974A6F5BEE03B13EC13</Name>
+      <Value>Project Workspace\Masterbranch\New Node 2019_12_06 11_49_11_299.oktc</Value>
+    </ImportSectionDTO>
+  </ImportedArtifacts>
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <FlowSteps>
+    <SuiteStep>
+      <Name>New Node 2019_12_06 11_49_11_299</Name>
+      <ShouldRun>true</ShouldRun>
+      <UseDatasheet>false</UseDatasheet>
+      <Flow_RelativePath>B4F92F37BF693974A6F5BEE03B13EC13</Flow_RelativePath>
+      <BDD_RelativePath />
+      <BPGroup_RelativePath />
+      <Sparkin_RelativePath />
+      <Type>Keyword</Type>
+    </SuiteStep>
+  </FlowSteps>
+</SuiteSchema>
