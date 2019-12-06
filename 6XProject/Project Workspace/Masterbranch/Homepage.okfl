@@ -19,12 +19,14 @@
       <StepInputArgs>
         <TestStepInputArgument>
           <Name>Browser</Name>
-          <DataSource>ValueFromInputParameter</DataSource>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">chrome</StaticValue>
           <InputParameter_RelativePath>InputArguments\input-parameter-1</InputParameter_RelativePath>
         </TestStepInputArgument>
         <TestStepInputArgument>
           <Name>URL</Name>
-          <DataSource>ValueFromInputParameter</DataSource>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">http://www.cresconnect.crestechglobal.com</StaticValue>
           <InputParameter_RelativePath>InputArguments\input-parameter-2</InputParameter_RelativePath>
         </TestStepInputArgument>
       </StepInputArgs>
