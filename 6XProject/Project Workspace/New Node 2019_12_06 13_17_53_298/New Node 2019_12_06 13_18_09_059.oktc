@@ -28,7 +28,11 @@
         <FlowStepInputArgument>
           <Name>URL</Name>
           <DataSource>StaticValue</DataSource>
+<<<<<<< HEAD
           <StaticValue xsi:type="xsd:string">http://cresconnect.crestechglobal.com</StaticValue>
+=======
+          <StaticValue xsi:type="xsd:string">http://cresconnect.crestechglobal.com/</StaticValue>
+>>>>>>> 728866ea98d7857fdc27f696edea36bbbe893101
         </FlowStepInputArgument>
       </StepInputArgs>
       <StepOutputArgs>
