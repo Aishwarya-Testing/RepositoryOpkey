@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<FlowSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportedArtifacts>
+    <ImportSectionDTO>
+      <Name>BE79F669B6C109EACB8D341D22F7FA9A</Name>
+      <Value>Project Workspace\New Node 2019_12_06 13_17_53_298\New Node 2019_12_06 13_18_02_993.okor</Value>
+    </ImportSectionDTO>
+  </ImportedArtifacts>
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <FlowSteps>
+    <FlowStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword\OpenBrowser</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Browser</Name>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">firefox</StaticValue>
+        </FlowStepInputArgument>
+        <FlowStepInputArgument>
+          <Name>URL</Name>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">http://cresconnect.crestechglobal.com/</StaticValue>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword\TypeTextOnEditBox</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
+          <Obj_RelativePath>BE79F669B6C109EACB8D341D22F7FA9A\CresConnect\username</Obj_RelativePath>
+        </FlowStepInputArgument>
+        <FlowStepInputArgument>
+          <Name>Value</Name>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">apoorva.gaurav@sstsinc.com</StaticValue>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword\TypeSecureText</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
+          <Obj_RelativePath>BE79F669B6C109EACB8D341D22F7FA9A\CresConnect\password</Obj_RelativePath>
+        </FlowStepInputArgument>
+        <FlowStepInputArgument>
+          <Name>Value</Name>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">[X,1,KJwhLWhyVh1k]GQg4TtNtQN+9hRYLuEsVGg==</StaticValue>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword\ClickButton</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
+          <Obj_RelativePath>BE79F669B6C109EACB8D341D22F7FA9A\CresConnect\Login</Obj_RelativePath>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+  </FlowSteps>
+</FlowSchema>
