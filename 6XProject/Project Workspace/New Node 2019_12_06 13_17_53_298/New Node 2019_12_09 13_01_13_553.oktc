@@ -28,15 +28,14 @@
         <FlowStepInputArgument>
           <Name>URL</Name>
           <DataSource>StaticValue</DataSource>
-<<<<<<< HEAD
-          <StaticValue xsi:type="xsd:string">http://cresconnect.crestechglobal.com</StaticValue>
-=======
-          <StaticValue xsi:type="xsd:string">http://cresconnect.crestechglobal.com/</StaticValue>
->>>>>>> 728866ea98d7857fdc27f696edea36bbbe893101
+          <StaticValue xsi:type="xsd:string">http://www.cresconnect.crestechglobal.com</StaticValue>
         </FlowStepInputArgument>
       </StepInputArgs>
       <StepOutputArgs>
-        <FlowStepOutputArgument />
+        <FlowStepOutputArgument>
+          <OutputVariableName>op1</OutputVariableName>
+          <ParameterName>Output</ParameterName>
+        </FlowStepOutputArgument>
       </StepOutputArgs>
     </FlowStep>
     <FlowStep>
@@ -54,7 +53,7 @@
         <FlowStepInputArgument>
           <Name>Value</Name>
           <DataSource>StaticValue</DataSource>
-          <StaticValue xsi:type="xsd:string">apoorva.gaurav@sstsinc.com</StaticValue>
+          <StaticValue xsi:type="xsd:string">dsfbvgtd</StaticValue>
         </FlowStepInputArgument>
       </StepInputArgs>
       <StepOutputArgs>
@@ -76,7 +75,7 @@
         <FlowStepInputArgument>
           <Name>Value</Name>
           <DataSource>StaticValue</DataSource>
-          <StaticValue xsi:type="xsd:string">[X,1,KJwhLWhyVh1k]GQg4TtNtQN+9hRYLuEsVGg==</StaticValue>
+          <StaticValue xsi:type="xsd:string">[X,1,4eKz9vjgTdnB]rXc+iNAljVmdlyfD1UKCUQ==</StaticValue>
         </FlowStepInputArgument>
       </StepInputArgs>
       <StepOutputArgs>
@@ -88,12 +87,28 @@
       <IsNegative>false</IsNegative>
       <ShouldRun>true</ShouldRun>
       <WantSnapshot>true</WantSnapshot>
-      <Keyword_RelativePath>OpKeyGenericKeyword\ClickButton</Keyword_RelativePath>
+      <Keyword_RelativePath>OpKeyGenericKeyword\Click</Keyword_RelativePath>
       <StepInputArgs>
         <FlowStepInputArgument>
           <Name>Object</Name>
           <DataSource>StaticValue</DataSource>
           <Obj_RelativePath>BE79F669B6C109EACB8D341D22F7FA9A\CresConnect\Login</Obj_RelativePath>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>Salesforce\SF_Click</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
         </FlowStepInputArgument>
       </StepInputArgs>
       <StepOutputArgs>

@@ -2,8 +2,8 @@
 <SuiteSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ImportedArtifacts>
     <ImportSectionDTO>
-      <Name>09DDE5BFCB1EEF68F6F9FF9DD7461735</Name>
-      <Value>Project Workspace\New Node 2019_12_06 13_17_53_298\New Node 2019_12_06 13_18_09_059.oktc</Value>
+      <Name>57C7D3662FEE285D315B421BE16A3458</Name>
+      <Value>Project Workspace\New Node 2019_12_06 13_17_53_298\New Node 2019_12_09 13_01_13_553.oktc</Value>
     </ImportSectionDTO>
   </ImportedArtifacts>
   <MetaInformation>
@@ -14,10 +14,10 @@
   </MetaInformation>
   <FlowSteps>
     <SuiteStep>
-      <Name>New Node 2019_12_06 13_18_09_059</Name>
+      <Name>New Node 2019_12_09 13_01_13_553</Name>
       <ShouldRun>true</ShouldRun>
       <UseDatasheet>false</UseDatasheet>
-      <Flow_RelativePath>09DDE5BFCB1EEF68F6F9FF9DD7461735</Flow_RelativePath>
+      <Flow_RelativePath>57C7D3662FEE285D315B421BE16A3458</Flow_RelativePath>
       <BDD_RelativePath />
       <BPGroup_RelativePath />
       <Sparkin_RelativePath />
