@@ -2,8 +2,8 @@
 <SuiteSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ImportedArtifacts>
     <ImportSectionDTO>
-      <Name>6D72C7929A219184E0562A0A23E7A4F5</Name>
-      <Value>Project Workspace\MAster\tc.oktc</Value>
+      <Name>5A102D805C8A32831B9C9178570E38B3</Name>
+      <Value>Project Workspace\tc1.oktc</Value>
     </ImportSectionDTO>
   </ImportedArtifacts>
   <MetaInformation>
@@ -14,10 +14,10 @@
   </MetaInformation>
   <FlowSteps>
     <SuiteStep>
-      <Name>tc</Name>
+      <Name>tc1</Name>
       <ShouldRun>true</ShouldRun>
       <UseDatasheet>false</UseDatasheet>
-      <Flow_RelativePath>6D72C7929A219184E0562A0A23E7A4F5</Flow_RelativePath>
+      <Flow_RelativePath>5A102D805C8A32831B9C9178570E38B3</Flow_RelativePath>
       <BDD_RelativePath />
       <BPGroup_RelativePath />
       <Sparkin_RelativePath />

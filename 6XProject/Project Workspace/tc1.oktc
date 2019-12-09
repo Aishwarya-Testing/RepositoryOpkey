@@ -2,8 +2,8 @@
 <FlowSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ImportedArtifacts>
     <ImportSectionDTO>
-      <Name>851AFCAC7829B95F7908E01903629EED</Name>
-      <Value>Project Workspace\MAster\fl.okfl</Value>
+      <Name>2BEC0358B41F0C0DAB09B20810C12227</Name>
+      <Value>Project Workspace\fl.okfl</Value>
     </ImportSectionDTO>
   </ImportedArtifacts>
   <MetaInformation>
@@ -18,11 +18,12 @@
       <IsNegative>false</IsNegative>
       <ShouldRun>true</ShouldRun>
       <WantSnapshot>false</WantSnapshot>
-      <Component_RelativePath>851AFCAC7829B95F7908E01903629EED</Component_RelativePath>
+      <Component_RelativePath>2BEC0358B41F0C0DAB09B20810C12227</Component_RelativePath>
       <StepInputArgs>
         <FlowStepInputArgument>
           <Name>input-parameter-1</Name>
-          <DataSource>Default</DataSource>
+          <DataSource>ValueFromGlobalVariable</DataSource>
+          <GV_RelativePath>GlobalVariables\browser</GV_RelativePath>
         </FlowStepInputArgument>
         <FlowStepInputArgument>
           <Name>input-parameter-2</Name>
