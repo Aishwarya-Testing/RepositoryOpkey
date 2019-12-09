@@ -1,0 +1,525 @@
+<?xml version="1.0"?>
+<ObjectRepositorySchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <ORObjects>
+    <ORObject>
+      <OpKeyType>HTML PAGE</OpKeyType>
+      <Position>10</Position>
+      <UseSmartIdentification>false</UseSmartIdentification>
+      <IsUpdatable>false</IsUpdatable>
+      <ObjectProperties>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>10</Position>
+          <Value>http://cresconnect.crestechglobal.com/</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>src</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>20</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>index</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>30</Position>
+          <Value>html</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>tag</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>false</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>40</Position>
+          <Value>HTML PAGE</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>type</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>50</Position>
+          <Value>0</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>titleindex</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>60</Position>
+          <Value>CresConnect</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>title</PropertyName>
+        </ObjectProperty>
+        <ObjectProperty>
+          <DataType>String</DataType>
+          <IsUsed>true</IsUsed>
+          <IsEncrypted>false</IsEncrypted>
+          <Position>70</Position>
+          <Value>http://cresconnect.crestechglobal.com/</Value>
+          <IsEditable>false</IsEditable>
+          <IsRegex>false</IsRegex>
+          <PluginSpecificity />
+          <PropertyName>url</PropertyName>
+        </ObjectProperty>
+      </ObjectProperties>
+      <ChildObjects>
+        <ORObject>
+          <OpKeyType>Text Field</OpKeyType>
+          <Position>10</Position>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>10</Position>
+              <Value>INPUT</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>20</Position>
+              <Value>text</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>input-type</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>30</Position>
+              <Value>45</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>height</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>40</Position>
+              <Value>493</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>width</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>50</Position>
+              <Value>username</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>60</Position>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>70</Position>
+              <Value>//form[@id='frmSignIn']/div[1]/input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>80</Position>
+              <Value>//input[@name='username']</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:attributes</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>90</Position>
+              <Value>//input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>100</Position>
+              <Value>form#frmSignIn &gt; div:first-of-type &gt; input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>110</Position>
+              <Value>File Store\e041122b-56e5-4f88-9a32-ba994d15e4d3</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>username</Name>
+        </ORObject>
+        <ORObject>
+          <OpKeyType>Text Field</OpKeyType>
+          <Position>20</Position>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>10</Position>
+              <Value>password</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>name</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>20</Position>
+              <Value>INPUT</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>30</Position>
+              <Value>form-control lcsa</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>class</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>40</Position>
+              <Value>password</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>input-type</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>50</Position>
+              <Value>password</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>60</Position>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>70</Position>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>80</Position>
+              <Value>//form[@id='frmSignIn']/div[2]/input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>90</Position>
+              <Value>//input[@name='password']</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:attributes</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>100</Position>
+              <Value>//div[2]/input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>110</Position>
+              <Value>form#frmSignIn &gt; div:nth-of-type(2) &gt; input</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>120</Position>
+              <Value>File Store\3d68b95f-9509-420a-aee3-f23839c83b96</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>password</Name>
+        </ORObject>
+        <ORObject>
+          <OpKeyType>Button</OpKeyType>
+          <Position>30</Position>
+          <UseSmartIdentification>false</UseSmartIdentification>
+          <IsUpdatable>false</IsUpdatable>
+          <ObjectProperties>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>10</Position>
+              <Value>Login</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>innertext</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>20</Position>
+              <Value>submit_login</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>name</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>30</Position>
+              <Value>BUTTON</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>tag</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>40</Position>
+              <Value>btn btn-primary lgbtnsds</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>class</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>50</Position>
+              <Value>submit</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>input-type</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>60</Position>
+              <Value>Login</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>logicalname</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>70</Position>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>index</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>80</Position>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>90</Position>
+              <Value>//form[@id='frmSignIn']/div[3]/div/button</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:relative</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>100</Position>
+              <Value>//button[@name='submit_login']</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:attributes</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>110</Position>
+              <Value>//button</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>xpath:position</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>120</Position>
+              <Value>form#frmSignIn &gt; div:nth-of-type(3) &gt; div &gt; button</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>css</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>Image</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Position>130</Position>
+              <Value>File Store\3df196cb-c40c-445c-8d44-86346b056a7d</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>ObjectImage</PropertyName>
+            </ObjectProperty>
+          </ObjectProperties>
+          <ChildObjects />
+          <Name>Login</Name>
+        </ORObject>
+      </ChildObjects>
+      <Name>CresConnect</Name>
+    </ORObject>
+  </ORObjects>
+</ObjectRepositorySchema>
