@@ -47,7 +47,8 @@
         </TestStepInputArgument>
         <TestStepInputArgument>
           <Name>Value</Name>
-          <DataSource>ValueFromInputParameter</DataSource>
+          <DataSource>ValueFromGlobalVariable</DataSource>
+          <GV_RelativePath>GlobalVariables\browser</GV_RelativePath>
           <InputParameter_RelativePath>InputArguments\input-parameter-3</InputParameter_RelativePath>
         </TestStepInputArgument>
       </StepInputArgs>
