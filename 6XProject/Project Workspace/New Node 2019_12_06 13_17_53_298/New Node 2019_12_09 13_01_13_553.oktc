@@ -99,21 +99,5 @@
         <FlowStepOutputArgument />
       </StepOutputArgs>
     </FlowStep>
-    <FlowStep>
-      <ContinueOnError>true</ContinueOnError>
-      <IsNegative>false</IsNegative>
-      <ShouldRun>true</ShouldRun>
-      <WantSnapshot>true</WantSnapshot>
-      <Keyword_RelativePath>Salesforce\SF_Click</Keyword_RelativePath>
-      <StepInputArgs>
-        <FlowStepInputArgument>
-          <Name>Object</Name>
-          <DataSource>StaticValue</DataSource>
-        </FlowStepInputArgument>
-      </StepInputArgs>
-      <StepOutputArgs>
-        <FlowStepOutputArgument />
-      </StepOutputArgs>
-    </FlowStep>
   </FlowSteps>
 </FlowSchema>
