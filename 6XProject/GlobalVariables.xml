@@ -3,7 +3,7 @@
   <GlobalVarables>
     <GlobalVariable>
       <Name>Default Browser</Name>
-      <Value xsi:type="xsd:string">Chrome</Value>
+      <Value xsi:type="xsd:string">Firefox</Value>
       <DataType_ENUM>String</DataType_ENUM>
       <ExternallyUpdatable>false</ExternallyUpdatable>
       <IsDeleted>false</IsDeleted>
@@ -19,6 +19,13 @@
     <GlobalVariable>
       <Name>master1gv</Name>
       <Value xsi:type="xsd:string">hello</Value>
+      <DataType_ENUM>String</DataType_ENUM>
+      <ExternallyUpdatable>true</ExternallyUpdatable>
+      <IsDeleted>false</IsDeleted>
+      <ListValues />
+    </GlobalVariable>
+    <GlobalVariable>
+      <Name>gv2</Name>
       <DataType_ENUM>String</DataType_ENUM>
       <ExternallyUpdatable>true</ExternallyUpdatable>
       <IsDeleted>false</IsDeleted>
