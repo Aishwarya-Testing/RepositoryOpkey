@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<ComponentSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportedArtifacts>
+    <ImportSectionDTO>
+      <Name>87283CB4FE460FE22B577ED90D6BE92F</Name>
+      <Value>Project Workspace/FLfolder/New Node 2019_12_26 08_18_27_038 2019_12_26 08_18_27_061.okor</Value>
+    </ImportSectionDTO>
+  </ImportedArtifacts>
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <TestSteps>
+    <TestStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/OpenBrowser</Keyword_RelativePath>
+      <SoapMethod_RelativePath />
+      <RestMethod_RelativePath />
+      <StepInputArgs>
+        <TestStepInputArgument>
+          <Name>Browser</Name>
+          <DataSource>ValueFromInputParameter</DataSource>
+          <InputParameter_RelativePath>InputArguments/input-parameter-1</InputParameter_RelativePath>
+        </TestStepInputArgument>
+        <TestStepInputArgument>
+          <Name>URL</Name>
+          <DataSource>ValueFromInputParameter</DataSource>
+          <InputParameter_RelativePath>InputArguments/input-parameter-2</InputParameter_RelativePath>
+        </TestStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <TestStepOutputArgument />
+      </StepOutputArgs>
+    </TestStep>
+    <TestStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/SyncBrowser</Keyword_RelativePath>
+      <SoapMethod_RelativePath />
+      <RestMethod_RelativePath />
+      <StepInputArgs />
+      <StepOutputArgs>
+        <TestStepOutputArgument />
+      </StepOutputArgs>
+    </TestStep>
+    <TestStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/TypeTextOnEditBox</Keyword_RelativePath>
+      <SoapMethod_RelativePath />
+      <RestMethod_RelativePath />
+      <StepInputArgs>
+        <TestStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
+          <Obj_RelativePath>87283CB4FE460FE22B577ED90D6BE92F/CresConnect/username</Obj_RelativePath>
+        </TestStepInputArgument>
+        <TestStepInputArgument>
+          <Name>Value</Name>
+          <DataSource>ValueFromInputParameter</DataSource>
+          <InputParameter_RelativePath>InputArguments/input-parameter-3</InputParameter_RelativePath>
+        </TestStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <TestStepOutputArgument />
+      </StepOutputArgs>
+    </TestStep>
+    <TestStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/TypeSecureText</Keyword_RelativePath>
+      <SoapMethod_RelativePath />
+      <RestMethod_RelativePath />
+      <StepInputArgs>
+        <TestStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
+          <Obj_RelativePath>87283CB4FE460FE22B577ED90D6BE92F/CresConnect/password</Obj_RelativePath>
+        </TestStepInputArgument>
+        <TestStepInputArgument>
+          <Name>Value</Name>
+          <DataSource>ValueFromInputParameter</DataSource>
+          <InputParameter_RelativePath>InputArguments/input-parameter-4</InputParameter_RelativePath>
+        </TestStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <TestStepOutputArgument />
+      </StepOutputArgs>
+    </TestStep>
+    <TestStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword/Click</Keyword_RelativePath>
+      <SoapMethod_RelativePath />
+      <RestMethod_RelativePath />
+      <StepInputArgs>
+        <TestStepInputArgument>
+          <Name>Object</Name>
+          <DataSource>StaticValue</DataSource>
+          <Obj_RelativePath>87283CB4FE460FE22B577ED90D6BE92F/CresConnect/Login</Obj_RelativePath>
+        </TestStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <TestStepOutputArgument />
+      </StepOutputArgs>
+    </TestStep>
+  </TestSteps>
+  <InputParameters>
+    <ComponentInputParameter>
+      <Name>input-parameter-1</Name>
+      <DefaultValues>
+        <anyType xsi:type="xsd:string">firefox</anyType>
+      </DefaultValues>
+      <IsMandatory>true</IsMandatory>
+      <Type>String</Type>
+    </ComponentInputParameter>
+    <ComponentInputParameter>
+      <Name>input-parameter-2</Name>
+      <DefaultValues>
+        <anyType xsi:type="xsd:string">www.cresconnect.crestechglobal.com</anyType>
+      </DefaultValues>
+      <IsMandatory>true</IsMandatory>
+      <Type>String</Type>
+    </ComponentInputParameter>
+    <ComponentInputParameter>
+      <Name>input-parameter-3</Name>
+      <DefaultValues>
+        <anyType xsi:type="xsd:boolean">false</anyType>
+      </DefaultValues>
+      <IsMandatory>true</IsMandatory>
+      <Type>Boolean</Type>
+    </ComponentInputParameter>
+    <ComponentInputParameter>
+      <Name>input-parameter-4</Name>
+      <DefaultValues>
+        <anyType xsi:type="xsd:int">11</anyType>
+      </DefaultValues>
+      <IsMandatory>true</IsMandatory>
+      <Type>Integer</Type>
+    </ComponentInputParameter>
+    <ComponentInputParameter>
+      <Name>input-parameter-5</Name>
+      <DefaultValues>
+        <anyType xsi:type="xsd:double">1.2</anyType>
+      </DefaultValues>
+      <IsMandatory>true</IsMandatory>
+      <Type>Double</Type>
+    </ComponentInputParameter>
+  </InputParameters>
+  <OutputParameters />
+</ComponentSchema>
