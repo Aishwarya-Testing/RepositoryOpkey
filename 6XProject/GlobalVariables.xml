@@ -42,7 +42,7 @@
     </GlobalVariable>
     <GlobalVariable>
       <Name>gv5</Name>
-      <Value xsi:type="xsd:string">newvalue</Value>
+      <Value xsi:type="xsd:string">newvaluesdfe</Value>
       <DataType_ENUM>String</DataType_ENUM>
       <ExternallyUpdatable>true</ExternallyUpdatable>
       <IsDeleted>false</IsDeleted>
