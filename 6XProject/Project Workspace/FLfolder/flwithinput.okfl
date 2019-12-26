@@ -30,7 +30,8 @@
         </TestStepInputArgument>
         <TestStepInputArgument>
           <Name>URL</Name>
-          <DataSource>ValueFromInputParameter</DataSource>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">ksdvfkldkv</StaticValue>
           <InputParameter_RelativePath>InputArguments/input-parameter-2</InputParameter_RelativePath>
         </TestStepInputArgument>
       </StepInputArgs>
