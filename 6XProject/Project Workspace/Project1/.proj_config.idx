@@ -1,0 +1,106 @@
+[
+  {
+    "ArtifactPath": "Project Workspace\\Folder1\\or1.okor/New node/New node (2)",
+    "UsedInArtifactPath": "Project Workspace\\Folder1\\fl.okfl"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\Folder1\\or1.okor/New node/New node (2)",
+    "UsedInArtifactPath": "Project Workspace\\Folder1\\tc.oktc"
+  },
+  {
+    "ArtifactPath": "GlobalVariables/gv1",
+    "UsedInArtifactPath": "Project Workspace\\Folder2\\fl.okfl"
+  },
+  {
+    "ArtifactPath": "GlobalVariables/gv2",
+    "UsedInArtifactPath": "Project Workspace\\Folder2\\fl.okfl"
+  },
+  {
+    "ArtifactPath": "GlobalVariables/gv1",
+    "UsedInArtifactPath": "Project Workspace\\newfl.okfl"
+  },
+  {
+    "ArtifactPath": "GlobalVariables/gv2",
+    "UsedInArtifactPath": "Project Workspace\\newfl.okfl"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\hellofl11111.okfl",
+    "UsedInArtifactPath": "Project Workspace\\newfl.okfl"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\hellofl11111.okfl",
+    "UsedInArtifactPath": "Project Workspace\\tcname1.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\tcname11.oktc",
+    "UsedInArtifactPath": "Project Workspace\\s1.okst"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\folder4\\gdr1.okgdr/ehfhweuf",
+    "UsedInArtifactPath": "Project Workspace\\folder4\\tc.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\folder4\\gdr1.okgdr/Column-2",
+    "UsedInArtifactPath": "Project Workspace\\folder4\\tc.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\folder4\\gdr1.okgdr/Column-2",
+    "UsedInArtifactPath": "Project Workspace\\folder4\\tc1.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\folder4\\gdr1.okgdr/Column-3",
+    "UsedInArtifactPath": "Project Workspace\\folder4\\tc1.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\jgujhhj.okfl",
+    "UsedInArtifactPath": "Project Workspace\\fln.okfl"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\jgujhhj.okfl",
+    "UsedInArtifactPath": "Project Workspace\\hellofl11111.okfl"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\newfl.okfl",
+    "UsedInArtifactPath": "Project Workspace\\newtc.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\jgujhhj.okfl",
+    "UsedInArtifactPath": "Project Workspace\\newtc.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\Folder3\\gdr.okgdr/Column-1",
+    "UsedInArtifactPath": "Project Workspace\\newtc.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\Folder3\\gdr.okgdr/Column-2",
+    "UsedInArtifactPath": "Project Workspace\\newtc.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\newfl.okfl",
+    "UsedInArtifactPath": "Project Workspace\\jefgver.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\jefgver.oktc",
+    "UsedInArtifactPath": "Project Workspace\\s2.okst"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\fverk.oktc",
+    "UsedInArtifactPath": "Project Workspace\\s2.okst"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\Folder1\\or1.okor/New node/New node (2)",
+    "UsedInArtifactPath": "Project Workspace\\fverk.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\jgujhhj.okfl",
+    "UsedInArtifactPath": "Project Workspace\\fverk.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\folder4\\gdr1.okgdr/Column-2",
+    "UsedInArtifactPath": "Project Workspace\\folder4\\New Node 2019_12_24 12_02_48_979.oktc"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\op.okfl",
+    "UsedInArtifactPath": "Project Workspace\\optc.oktc"
+  }
+]

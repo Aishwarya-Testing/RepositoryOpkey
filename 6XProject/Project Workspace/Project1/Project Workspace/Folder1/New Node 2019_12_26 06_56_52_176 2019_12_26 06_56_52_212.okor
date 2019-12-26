@@ -9,7 +9,6 @@
   <ORObjects>
     <ORObject>
       <OpKeyType>HTML PAGE</OpKeyType>
-      <Position>10</Position>
       <UseSmartIdentification>false</UseSmartIdentification>
       <IsUpdatable>false</IsUpdatable>
       <ObjectProperties>
@@ -17,8 +16,7 @@
           <DataType>String</DataType>
           <IsUsed>false</IsUsed>
           <IsEncrypted>false</IsEncrypted>
-          <Position>10</Position>
-          <Value>http://cresconnect.crestechglobal.com/</Value>
+          <Value>http://www.cresconnect.crestechglobal.com/</Value>
           <IsEditable>false</IsEditable>
           <IsRegex>false</IsRegex>
           <PluginSpecificity />
@@ -28,7 +26,6 @@
           <DataType>String</DataType>
           <IsUsed>false</IsUsed>
           <IsEncrypted>false</IsEncrypted>
-          <Position>20</Position>
           <Value>0</Value>
           <IsEditable>false</IsEditable>
           <IsRegex>false</IsRegex>
@@ -39,7 +36,6 @@
           <DataType>String</DataType>
           <IsUsed>true</IsUsed>
           <IsEncrypted>false</IsEncrypted>
-          <Position>30</Position>
           <Value>html</Value>
           <IsEditable>false</IsEditable>
           <IsRegex>false</IsRegex>
@@ -50,7 +46,6 @@
           <DataType>String</DataType>
           <IsUsed>false</IsUsed>
           <IsEncrypted>false</IsEncrypted>
-          <Position>40</Position>
           <Value>HTML PAGE</Value>
           <IsEditable>false</IsEditable>
           <IsRegex>false</IsRegex>
@@ -61,7 +56,6 @@
           <DataType>String</DataType>
           <IsUsed>true</IsUsed>
           <IsEncrypted>false</IsEncrypted>
-          <Position>50</Position>
           <Value>0</Value>
           <IsEditable>false</IsEditable>
           <IsRegex>false</IsRegex>
@@ -72,7 +66,6 @@
           <DataType>String</DataType>
           <IsUsed>true</IsUsed>
           <IsEncrypted>false</IsEncrypted>
-          <Position>60</Position>
           <Value>CresConnect</Value>
           <IsEditable>false</IsEditable>
           <IsRegex>false</IsRegex>
@@ -83,8 +76,7 @@
           <DataType>String</DataType>
           <IsUsed>true</IsUsed>
           <IsEncrypted>false</IsEncrypted>
-          <Position>70</Position>
-          <Value>http://cresconnect.crestechglobal.com/</Value>
+          <Value>http://www.cresconnect.crestechglobal.com/</Value>
           <IsEditable>false</IsEditable>
           <IsRegex>false</IsRegex>
           <PluginSpecificity />
@@ -94,7 +86,6 @@
       <ChildObjects>
         <ORObject>
           <OpKeyType>Text Field</OpKeyType>
-          <Position>10</Position>
           <UseSmartIdentification>false</UseSmartIdentification>
           <IsUpdatable>false</IsUpdatable>
           <ObjectProperties>
@@ -102,7 +93,16 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>10</Position>
+              <Value>username</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>name</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
               <Value>INPUT</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -111,9 +111,18 @@
             </ObjectProperty>
             <ObjectProperty>
               <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>form-control lcsa</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>class</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>20</Position>
               <Value>text</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -124,29 +133,6 @@
               <DataType>String</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>30</Position>
-              <Value>45</Value>
-              <IsEditable>false</IsEditable>
-              <IsRegex>false</IsRegex>
-              <PluginSpecificity />
-              <PropertyName>height</PropertyName>
-            </ObjectProperty>
-            <ObjectProperty>
-              <DataType>String</DataType>
-              <IsUsed>false</IsUsed>
-              <IsEncrypted>false</IsEncrypted>
-              <Position>40</Position>
-              <Value>493</Value>
-              <IsEditable>false</IsEditable>
-              <IsRegex>false</IsRegex>
-              <PluginSpecificity />
-              <PropertyName>width</PropertyName>
-            </ObjectProperty>
-            <ObjectProperty>
-              <DataType>String</DataType>
-              <IsUsed>false</IsUsed>
-              <IsEncrypted>false</IsEncrypted>
-              <Position>50</Position>
               <Value>username</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -157,7 +143,6 @@
               <DataType>String</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>60</Position>
               <Value>0</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -166,9 +151,18 @@
             </ObjectProperty>
             <ObjectProperty>
               <DataType>String</DataType>
+              <IsUsed>false</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
+              <Value>0</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>pageindex</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>70</Position>
               <Value>//form[@id='frmSignIn']/div[1]/input</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -179,7 +173,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>80</Position>
               <Value>//input[@name='username']</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -190,7 +183,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>90</Position>
               <Value>//input</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -201,7 +193,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>100</Position>
               <Value>form#frmSignIn &gt; div:first-of-type &gt; input</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -212,8 +203,7 @@
               <DataType>Image</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>110</Position>
-              <Value>File Store\e041122b-56e5-4f88-9a32-ba994d15e4d3</Value>
+              <Value>File Store\ea36f13c-a581-4eda-9e5c-ef0715b5d5b5</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
               <PluginSpecificity />
@@ -225,7 +215,6 @@
         </ORObject>
         <ORObject>
           <OpKeyType>Text Field</OpKeyType>
-          <Position>20</Position>
           <UseSmartIdentification>false</UseSmartIdentification>
           <IsUpdatable>false</IsUpdatable>
           <ObjectProperties>
@@ -233,7 +222,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>10</Position>
               <Value>password</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -244,7 +232,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>20</Position>
               <Value>INPUT</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -255,7 +242,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>30</Position>
               <Value>form-control lcsa</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -266,7 +252,6 @@
               <DataType>String</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>40</Position>
               <Value>password</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -277,7 +262,6 @@
               <DataType>String</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>50</Position>
               <Value>password</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -288,7 +272,6 @@
               <DataType>String</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>60</Position>
               <Value>0</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -299,7 +282,6 @@
               <DataType>String</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>70</Position>
               <Value>0</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -310,7 +292,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>80</Position>
               <Value>//form[@id='frmSignIn']/div[2]/input</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -321,7 +302,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>90</Position>
               <Value>//input[@name='password']</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -332,7 +312,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>100</Position>
               <Value>//div[2]/input</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -343,7 +322,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>110</Position>
               <Value>form#frmSignIn &gt; div:nth-of-type(2) &gt; input</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -354,8 +332,7 @@
               <DataType>Image</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>120</Position>
-              <Value>File Store\3d68b95f-9509-420a-aee3-f23839c83b96</Value>
+              <Value>File Store\1b9a70e5-47fa-4d9a-b114-48871e194e6f</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
               <PluginSpecificity />
@@ -367,7 +344,6 @@
         </ORObject>
         <ORObject>
           <OpKeyType>Button</OpKeyType>
-          <Position>30</Position>
           <UseSmartIdentification>false</UseSmartIdentification>
           <IsUpdatable>false</IsUpdatable>
           <ObjectProperties>
@@ -375,7 +351,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>10</Position>
               <Value>Login</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -386,7 +361,16 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>20</Position>
+              <Value>Login</Value>
+              <IsEditable>false</IsEditable>
+              <IsRegex>false</IsRegex>
+              <PluginSpecificity />
+              <PropertyName>textContent</PropertyName>
+            </ObjectProperty>
+            <ObjectProperty>
+              <DataType>String</DataType>
+              <IsUsed>true</IsUsed>
+              <IsEncrypted>false</IsEncrypted>
               <Value>submit_login</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -397,7 +381,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>30</Position>
               <Value>BUTTON</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -408,7 +391,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>40</Position>
               <Value>btn btn-primary lgbtnsds</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -419,7 +401,6 @@
               <DataType>String</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>50</Position>
               <Value>submit</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -430,7 +411,6 @@
               <DataType>String</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>60</Position>
               <Value>Login</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -441,7 +421,6 @@
               <DataType>String</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>70</Position>
               <Value>0</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -452,7 +431,6 @@
               <DataType>String</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>80</Position>
               <Value>0</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -463,7 +441,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>90</Position>
               <Value>//form[@id='frmSignIn']/div[3]/div/button</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -474,7 +451,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>100</Position>
               <Value>//button[@name='submit_login']</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -485,7 +461,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>110</Position>
               <Value>//button</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -496,7 +471,6 @@
               <DataType>String</DataType>
               <IsUsed>true</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>120</Position>
               <Value>form#frmSignIn &gt; div:nth-of-type(3) &gt; div &gt; button</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
@@ -507,8 +481,7 @@
               <DataType>Image</DataType>
               <IsUsed>false</IsUsed>
               <IsEncrypted>false</IsEncrypted>
-              <Position>130</Position>
-              <Value>File Store\3df196cb-c40c-445c-8d44-86346b056a7d</Value>
+              <Value>File Store\89fd812b-7b41-435d-b217-cd31e6e8718d</Value>
               <IsEditable>false</IsEditable>
               <IsRegex>false</IsRegex>
               <PluginSpecificity />
