@@ -22,8 +22,7 @@
       <StepInputArgs>
         <FlowStepInputArgument>
           <Name>Browser</Name>
-          <DataSource>ValueFromGlobalVariable</DataSource>
-          <GV_RelativePath>GlobalVariables/newgv</GV_RelativePath>
+          <DataSource>StaticValue</DataSource>
         </FlowStepInputArgument>
         <FlowStepInputArgument>
           <Name>URL</Name>
