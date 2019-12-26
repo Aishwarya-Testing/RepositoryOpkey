@@ -24,7 +24,8 @@
       <StepInputArgs>
         <TestStepInputArgument>
           <Name>Browser</Name>
-          <DataSource>ValueFromInputParameter</DataSource>
+          <DataSource>ValueFromGlobalVariable</DataSource>
+          <GV_RelativePath>GlobalVariables/gv</GV_RelativePath>
           <InputParameter_RelativePath>InputArguments/input-parameter-1</InputParameter_RelativePath>
         </TestStepInputArgument>
         <TestStepInputArgument>

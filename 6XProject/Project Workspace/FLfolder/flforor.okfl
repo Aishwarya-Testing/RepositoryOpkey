@@ -25,7 +25,7 @@
         <TestStepInputArgument>
           <Name>Browser</Name>
           <DataSource>ValueFromGlobalVariable</DataSource>
-          <GV_RelativePath>GlobalVariables/Default Browser</GV_RelativePath>
+          <GV_RelativePath>GlobalVariables/gv2</GV_RelativePath>
         </TestStepInputArgument>
         <TestStepInputArgument>
           <Name>URL</Name>
@@ -77,8 +77,8 @@
         </TestStepInputArgument>
         <TestStepInputArgument>
           <Name>Value</Name>
-          <DataSource>ValueFromGlobalVariable</DataSource>
-          <GV_RelativePath>GlobalVariables/gv1</GV_RelativePath>
+          <DataSource>StaticValue</DataSource>
+          <StaticValue xsi:type="xsd:string">[X,1,STpQWEBth2eO]M5IoB8jaV0IeOcJsy/YCfA==</StaticValue>
         </TestStepInputArgument>
       </StepInputArgs>
       <StepOutputArgs>
