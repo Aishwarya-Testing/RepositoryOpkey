@@ -41,9 +41,15 @@
       <ListValues />
     </GlobalVariable>
     <GlobalVariable>
+<<<<<<< HEAD
       <Name>int</Name>
       <Value xsi:type="xsd:int">11</Value>
       <DataType_ENUM>Integer</DataType_ENUM>
+=======
+      <Name>newgv</Name>
+      <Value xsi:type="xsd:string">hello</Value>
+      <DataType_ENUM>String</DataType_ENUM>
+>>>>>>> b20be2cf9bb6b56579886767bc525f08c99196cb
       <ExternallyUpdatable>true</ExternallyUpdatable>
       <IsDeleted>false</IsDeleted>
       <ListValues />
