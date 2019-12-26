@@ -17,15 +17,8 @@
       <ListValues />
     </GlobalVariable>
     <GlobalVariable>
-      <Name>master1gv</Name>
+      <Name>gv1</Name>
       <Value xsi:type="xsd:string">hello</Value>
-      <DataType_ENUM>String</DataType_ENUM>
-      <ExternallyUpdatable>true</ExternallyUpdatable>
-      <IsDeleted>false</IsDeleted>
-      <ListValues />
-    </GlobalVariable>
-    <GlobalVariable>
-      <Name>gv2</Name>
       <DataType_ENUM>String</DataType_ENUM>
       <ExternallyUpdatable>true</ExternallyUpdatable>
       <IsDeleted>false</IsDeleted>
