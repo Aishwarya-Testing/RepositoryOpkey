@@ -105,16 +105,10 @@
       <IsNegative>false</IsNegative>
       <ShouldRun>true</ShouldRun>
       <WantSnapshot>true</WantSnapshot>
-      <Keyword_RelativePath>OpKeyGenericKeyword/Click</Keyword_RelativePath>
+      <Keyword_RelativePath>OpKeyGenericKeyword/SyncBrowser</Keyword_RelativePath>
       <SoapMethod_RelativePath />
       <RestMethod_RelativePath />
-      <StepInputArgs>
-        <TestStepInputArgument>
-          <Name>Object</Name>
-          <DataSource>StaticValue</DataSource>
-          <Obj_RelativePath>87283CB4FE460FE22B577ED90D6BE92F/CresConnect/Login</Obj_RelativePath>
-        </TestStepInputArgument>
-      </StepInputArgs>
+      <StepInputArgs />
       <StepOutputArgs>
         <TestStepOutputArgument />
       </StepOutputArgs>

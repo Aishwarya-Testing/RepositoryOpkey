@@ -1,0 +1,26 @@
+[
+  {
+    "ArtifactPath": "GlobalVariables/gv2",
+    "UsedInArtifactPath": "Project Workspace\\FLfolder\\flforor.okfl"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\FLfolder\\New Node 2019_12_26 08_18_27_038 2019_12_26 08_18_27_061.okor/CresConnect/username",
+    "UsedInArtifactPath": "Project Workspace\\FLfolder\\flforor.okfl"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\FLfolder\\New Node 2019_12_26 08_18_27_038 2019_12_26 08_18_27_061.okor/CresConnect/password",
+    "UsedInArtifactPath": "Project Workspace\\FLfolder\\flforor.okfl"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\FLfolder\\New Node 2019_12_26 08_18_27_038 2019_12_26 08_18_27_061.okor/CresConnect/Login",
+    "UsedInArtifactPath": "Project Workspace\\FLfolder\\flforor.okfl"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\FLfolder\\New Node 2019_12_26 08_18_27_038 2019_12_26 08_18_27_061.okor/CresConnect/username",
+    "UsedInArtifactPath": "Project Workspace\\FLfolder\\flwithinput.okfl"
+  },
+  {
+    "ArtifactPath": "Project Workspace\\FLfolder\\New Node 2019_12_26 08_18_27_038 2019_12_26 08_18_27_061.okor/CresConnect/password",
+    "UsedInArtifactPath": "Project Workspace\\FLfolder\\flwithinput.okfl"
+  }
+]
