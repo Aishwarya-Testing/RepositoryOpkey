@@ -23,7 +23,7 @@
         <FlowStepInputArgument>
           <Name>Browser</Name>
           <DataSource>ValueFromGlobalVariable</DataSource>
-          <GV_RelativePath>GlobalVariables/gv4</GV_RelativePath>
+          <GV_RelativePath>GlobalVariables/gv5</GV_RelativePath>
         </FlowStepInputArgument>
         <FlowStepInputArgument>
           <Name>URL</Name>

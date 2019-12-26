@@ -41,8 +41,8 @@
       <ListValues />
     </GlobalVariable>
     <GlobalVariable>
-      <Name>gv4</Name>
-      <Value xsi:type="xsd:string">asdas</Value>
+      <Name>gv5</Name>
+      <Value xsi:type="xsd:string">newvalue</Value>
       <DataType_ENUM>String</DataType_ENUM>
       <ExternallyUpdatable>true</ExternallyUpdatable>
       <IsDeleted>false</IsDeleted>
